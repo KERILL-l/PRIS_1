@@ -1,0 +1,6 @@
+{
+  "name": "MediConnect",
+  "description": "Универсальная платформа для обмена медицинскими данными между пациентами, врачами и медицинскими учреждениями с контролем доступа и аудитом безопасности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
